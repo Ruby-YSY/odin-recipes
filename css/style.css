@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+/* Colors to use: 
+Background: #2C2C2C (slate gray)
+Primary Text: #E4E4E4 (light gray)
+Accent 1: #A8DADC (light cyan)
+Accent 2: #FFC1CC (soft pink)
+Button/CTA: #B39CD0 (lavender) */
+
+body {
+    background-color: #2C2C2C;
+    color: #E4E4E4;
+    font-family: Arial, Helvetica, sans-serif;
+}
